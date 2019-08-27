@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "assetDefinition": "QmckEXEBPNBgdDJoVfCnryayQjQYSEb7pSX8Sa4wVCLHZt",
+  "main": "game.js",
+  "basePosition": {
+    "rotation": { "y": 0 },
+    "translation": { "x": 0, "y": 0, "z": 0 }
+  },
+  "parcels": ["10,10"],
+  "contact": {
+    "name": "name",
+    "email": "email"
+  },
+  "spawnPoints": [
+    {
+      "name": "defaultSpawn",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "camera": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 0
+      },
+      "default": true
+    }
+  ],
+  "display": {
+    "title": "Road at 10,10 (open road OpenRoad_0)"
+  }
+}

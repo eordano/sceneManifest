@@ -1,0 +1,16 @@
+{
+  "assets": [
+    {
+      "name": "game.js",
+      "hash": "QmckEXEBPNBgdDJoVfCnryayQjQYSEb7pSX8Sa4wVCLHZt"
+    },
+    {
+      "name": "OpenRoad_0.glb",
+      "hash": "QmYPxKPkobQkE7sXD6Q8Xxv5ZJRqQf4q6dGEP7Rh3z2cXA"
+    }
+  ],
+  "assetTags": [
+    { "name": "required", "assets": ["game.js", "OpenRoad_0.glb"] }
+  ],
+  "requiredTags": ["required"]
+}
